@@ -1,2 +1,2 @@
-# How to build a simple Neural Network 
+# How to build a Simple Neural Network 
 
