@@ -1,4 +1,5 @@
-# Machine Learning
+# Srinidhi SH
+Software Developer at Atlassian
 
-Neural Network
-* [How to build a simple Neural Network](https://srinidhi-sh.github.io/simple_nn)
+Learnings
+* [Spring Reference](https://srinidhi-sh.github.io/spring_boot)
